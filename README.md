@@ -3,6 +3,10 @@
 
  # Cryptian Blockchain Frontpage
 
+## Screenshot
+
+[Screenshot](/image%20xp.png)
+
 Welcome to the Cryptian Blockchain Frontpage project! This repository contains the HTML and CSS code for the frontpage of the Cryptian blockchain website.
 
 ## Features
